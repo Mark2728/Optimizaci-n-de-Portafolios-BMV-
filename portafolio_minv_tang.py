@@ -8,20 +8,9 @@ Original file is located at
 
 # Portafolios de inversión: mínima varianza y de tangencia.
 
-# Integrantes del equipo:
-Cruz Rodríguez Avril Azeneth
-
-González García Frida Marbella
-
-Martinez Mares Itxel Julia
-
-Peña Fonseca Gael
-
+# Autor:
 Pérez Almazán Marcos
 
-Rodea López Citlali Danaé
-
-Rodríguez Figueroa Kenzil Owuen
 
 El presente proyecto es un ejercicio de optimización de portafolio de inversión por dos métodos: mínima varianza y de tangencia. Para lo cual se seleccionaron acciones en el periodo va del primer lunes hábil de octubre al último viernes hábil de la primera quincena de noviembre. Las acciones seleccionadas fueron:
 
